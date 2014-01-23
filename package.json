@@ -1,0 +1,22 @@
+{
+  "name": "relateab",
+  "id": "relateab",
+  "version": "0.0.1",
+  "title": "Relate Tab",
+  "description": "Add-on for openning tabs relative to active one",
+  "keywords": [ "relateab", "relative", "tab", "next", "open", "addon" ],
+  "author": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
+  "homepage": "https://github.com/Gozala/relateab",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gozala/relateab.git",
+    "web": "https://github.com/Gozala/relateab"
+  },
+  "bugs": {
+    "url": "http://github.com/Gozala/relateab/issues/"
+  },
+  "licenses": [{
+    "type" : "MIT",
+    "url" : "https://github.com/Gozala/relateab/License.md"
+  }]
+}
